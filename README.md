@@ -66,6 +66,7 @@ Me motiva aprender, crear soluciones inteligentes y combinar la tecnología con 
 
 ---
 
+
 ### 📊 Mis estadísticas en GitHub  
 
 
@@ -75,6 +76,13 @@ Me motiva aprender, crear soluciones inteligentes y combinar la tecnología con 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cotocross&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cotocross/Cotocross/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cotocross/Cotocross/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cotocross/Cotocross/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ---
 
