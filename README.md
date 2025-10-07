@@ -60,6 +60,15 @@ Me motiva aprender, crear soluciones inteligentes y combinar la tecnología con 
 
 ---
 
+### 🌟 Algunos de mis proyectos  
+
+🔹 [**Chat-Bot-Fiestas-Patrias**](https://github.com/Cotocross/Chat-Bot-Fiestas-Patrias) — Un chatbot interactivo y de doble personalidad que utiliza la potencia de la **IA (Google Gemini)** para celebrar las Fiestas Patrias de Chile.  
+🔹 [**Frases Motivacionales Diarias**](https://github.com/Cotocross/Frases-Motivacionales-Diarias) — Una aplicación moderna que genera frases motivacionales diarias con **inteligencia artificial (Gemini)** y las presenta en una interfaz elegante y responsive.  
+🔹 [**Predicción de Clientes Churn**](https://github.com/Cotocross/Prediccion-de-Churn) — Proyecto de **machine learning** que predice qué clientes podrían cancelar un servicio de telecomunicaciones.  
+🔹 [**Análisis y Predicción de Ventas en un E-commerce Brasileño**](https://github.com/Cotocross/Proyecto-Analisis-de-Ventas-de-un-E-Commerce-Global) — Caso real de **ciencia de datos** en e-commerce usando datos de Olist para analizar ventas y construir un modelo predictivo de precios.
+
+---
+
 ### 🌐 Contacta conmigo  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Contreras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-contreras-olate-131b562b9/)
