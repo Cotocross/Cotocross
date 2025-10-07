@@ -62,7 +62,7 @@ Me motiva aprender, crear soluciones inteligentes y combinar la tecnología con 
 
 ### 🌐 Contacta conmigo  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Contreras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-contreras-olate-131b562b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Contreras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-contreras-olate-131b562b9/)
 
 ---
 
@@ -77,5 +77,6 @@ Me motiva aprender, crear soluciones inteligentes y combinar la tecnología con 
 </div>
 
 ---
+
 
 <h4 align="center"> ⭐ "El conocimiento se multiplica cuando se comparte." </h4>
