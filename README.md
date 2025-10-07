@@ -60,12 +60,23 @@ Me motiva aprender, crear soluciones inteligentes y combinar la tecnología con 
 
 ---
 
-### 🌟 Algunos de mis proyectos  
+### 🌟 Algunos de mis proyectos
 
-🔹 [**Chat-Bot-Fiestas-Patrias**](https://github.com/Cotocross/Chat-Bot-Fiestas-Patrias) — Un chatbot interactivo y de doble personalidad que utiliza la potencia de la **IA (Google Gemini)** para celebrar las Fiestas Patrias de Chile.  
-🔹 [**Frases Motivacionales Diarias**](https://github.com/Cotocross/Frases-Motivacionales-Diarias) — Una aplicación moderna que genera frases motivacionales diarias con **inteligencia artificial (Gemini)** y las presenta en una interfaz elegante y responsive.  
-🔹 [**Predicción de Clientes Churn**](https://github.com/Cotocross/Prediccion-de-Churn) — Proyecto de **machine learning** que predice qué clientes podrían cancelar un servicio de telecomunicaciones.  
-🔹 [**Análisis y Predicción de Ventas en un E-commerce Brasileño**](https://github.com/Cotocross/Proyecto-Analisis-de-Ventas-de-un-E-Commerce-Global) — Caso real de **ciencia de datos** en e-commerce usando datos de Olist para analizar ventas y construir un modelo predictivo de precios.
+🔹 [**Chat-Bot-Fiestas-Patrias**](https://github.com/Cotocross/Chat-Bot-Fiestas-Patrias)  
+
+Un chatbot interactivo y de doble personalidad que utiliza la potencia de la Inteligencia Artificial (Google Gemini) para celebrar las Fiestas Patrias de Chile.
+
+🔹 [**Frases Motivacionales Diarias**](https://github.com/Cotocross/Frases-Motivacionales-Diarias)  
+
+Una aplicación moderna que genera automáticamente frases motivacionales diarias utilizando inteligencia artificial (Google Gemini) y las presenta en una interfaz elegante y responsive.
+
+🔹 [**Predicción de Cancelación de Clientes (Churn)**](https://github.com/Cotocross/Proyecto-Prediccion-de-Cancelacion-de-Clientes-Churn)  
+
+Este proyecto aplica técnicas de ciencia de datos y machine learning para predecir qué clientes están en riesgo de cancelar un servicio de telecomunicaciones (Churn).
+
+🔹 [**Análisis y Predicción de Ventas en un E-commerce Brasileño**](https://github.com/Cotocross/Proyecto-Analisis-de-Ventas-de-un-E-Commerce-Global)  
+
+Este proyecto aborda un caso real de ciencia de datos en e-commerce utilizando datos públicos de Olist. El objetivo principal es analizar el comportamiento de ventas y construir un modelo predictivo robusto que permita estimar el precio de productos en un entorno de ventas online.
 
 ---
 
