@@ -21,7 +21,7 @@ Me motiva aprender, crear soluciones inteligentes y combinar la tecnología con 
 
 ### 🎧 Fuera del código...  
 
-🍕 Amo la **pizza**, la **cerveza artesanal** y el **café fuerte**.  
+🍕 Amo la **pizza**, la **cerveza artesanal** y el **chocolate**.  
 🎮 Disfruto el **cine**, la **música**, los **videojuegos** y hacer **deporte**.  
 🐶 Amante de los **animales y las mascotas**.  
 🌍 Creo que la **curiosidad** es el mejor motor para evolucionar y crear.  
