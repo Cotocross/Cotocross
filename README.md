@@ -85,15 +85,13 @@ Este proyecto aborda un caso real de ciencia de datos en e-commerce utilizando d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Contreras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-contreras-olate-131b562b9/)
 
 ---
+ 
 
-
-### 📊 Mis estadísticas en GitHub  
+### 📊 Mis estadísticas en GitHub
 
 <div align="center">
-  
-![Cotocross GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cotocross&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cotocross&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+  <img src="https://github-readme-stats.vercel.app/api?username=Cotocross&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Cotocross GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotocross&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <picture>
