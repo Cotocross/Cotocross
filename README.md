@@ -90,11 +90,10 @@ Este proyecto aborda un caso real de ciencia de datos en e-commerce utilizando d
 ### 📊 Mis estadísticas en GitHub  
 
 <div align="center">
-
-![Cotocross GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cotocross&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cotocross&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
+  
+![Cotocross GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cotocross&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cotocross&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 </div>
 
 <picture>
