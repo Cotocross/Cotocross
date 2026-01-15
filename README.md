@@ -89,14 +89,8 @@ Este proyecto aborda un caso real de ciencia de datos en e-commerce utilizando d
 
 ### 📊 Mis estadísticas en GitHub
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cotocross/Cotocross/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cotocross/Cotocross/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cotocross/Cotocross/output/pacman-contribution-graph.svg">
-</picture>
-
 <div align="center">
+ 
   <img src="https://github-readme-stats-sandy-psi.vercel.app/api?username=Cotocross&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Cotocross GitHub Stats"  />
 </div>
 
@@ -104,6 +98,11 @@ Este proyecto aborda un caso real de ciencia de datos en e-commerce utilizando d
   <img src="https://github-readme-stats-sandy-psi.vercel.app/api/top-langs/?username=Cotocross&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cotocross/Cotocross/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cotocross/Cotocross/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cotocross/Cotocross/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
